@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'yahoo-weather'
-  s.version     = '0.0.0'
-  s.date        = '201-04-28'
+  s.version     = '0.0.1'
+  s.date        = '2013-11-25'
   s.summary     = "Reworked Yahoo Weather"
   s.description = "Fixed the ruby syntax "
   s.authors     = ["Michael Backes","Walter Korman"]
